@@ -10,7 +10,7 @@ function suppliesForSchool(input){
     let allMaterialsPriceWithDiscount = allMaterialsPrice - (allMaterialsPrice * (percentageDiscount / 100));
     console.log(allMaterialsPriceWithDiscount)
 }
-suppliesForSchool(["4,2dsds       ",
+suppliesForSchool(["4",
 
 "2 ",
 
